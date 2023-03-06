@@ -1,0 +1,5 @@
+Plan for Work of Spi v0.0.1
+  1. Better animation when attack
+  2. Try to design some enemies(slime?), add them in the tutorial level
+  3. More levels
+  4. Art
